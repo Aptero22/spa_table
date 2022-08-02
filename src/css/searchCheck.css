@@ -1,0 +1,11 @@
+.check {
+  display: flex;
+  align-items: center;
+}
+.check-text {
+  margin-right: 30px;
+}
+.check-input {
+  width: 20px;
+  height: 20px;
+}/*# sourceMappingURL=searchCheck.css.map */

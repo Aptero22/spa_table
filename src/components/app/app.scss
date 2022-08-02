@@ -1,0 +1,30 @@
+.app {
+    margin: 0 auto;
+    max-width: 1300px;
+    &-descr {
+        padding: 30px;
+        background-color: #3d5a80;
+        border-radius: 10px;
+        box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+        color: #fff;
+        margin-top: 50px;
+        &__title {
+            padding: 0;
+            margin: 0;
+            font-size: 28px;
+        }
+        &__info {
+            margin-top: 10px;
+        }
+    }
+    &-search {
+        display: flex;
+        align-items: center;
+        margin-top: 25px;
+        padding: 25px 30px;
+        background-color: #3d5a80;
+        border-radius: 10px;
+        box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+        color: #fff;
+    }
+}
